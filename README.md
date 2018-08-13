@@ -1,4 +1,4 @@
-# aspnet-core-angular2-registration-login-example
+# aspnet-core-aspnet-core-registration-login-api
 
 ASP.NET Core 2.1 - API for User Management, Authentication and Registration
 
